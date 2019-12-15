@@ -9,4 +9,4 @@ Correlations.ipynb file is for calculating correlations for everything, the code
 
 Project.ipynb file is for predicting scores and has many tried models in it, code itself is commented and could easily be used. 
 
-There are also poster sample and a pdf with the main ideas and objectives for this project.
+There are also poster sample and a pdf with the main ideas and objectives, and one Excel file where we found the correlations between certain teams and made some assumptions with that.
